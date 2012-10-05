@@ -13,12 +13,12 @@
 1. ___Centralized___ vs. ___distributed___ SCM. [1](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
 1. Pros. and cons. of each. [1](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
 1. Why Git? [1](http://git-scm.com/about), [2](http://www.slideshare.net/segfault/why-git-3352034)
-
-### GitHub
 1. Setup on Linux. How to configure username, email, ___proxy___. [1](https://help.github.com/articles/set-up-git), [2](http://stackoverflow.com/a/3406766/1019491)
 1. Basics of Git. `git init`, `git status`, `git add`, `git commit`, `git branch`, `git merge`.
 1. What happens when two users modify the same file? What if they modify the ___same line___? Merge conflict resolution.
 1. (Optional) Setting up a visual difftool and mergetool. Meld / KDiff3.
+
+### GitHub
 1. Working with ___remotes___, basics of talking to GitHub. `git remote`, `git fetch`, `git pull`, `git push`.
 1. (Optional) `git flow`. [A successful Git branching model.](http://nvie.com/posts/a-successful-git-branching-model/), [1](https://github.com/nvie/gitflow)
 1. (Optional) Git aliases.
