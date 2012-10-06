@@ -33,3 +33,6 @@
 
 ### Conclusion
 > "And then realize that nothing is perfect. Git is just _closer_ to perfect than any other SCM out there." - Linus
+
+### Complementary Git Tutorial
+[Link](https://github.com/Hindol/git-tutorial/blob/master/README.md)
